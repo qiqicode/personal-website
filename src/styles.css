@@ -1,1 +1,12 @@
-h1 { color: blue }
+h1 
+{ 
+    color: slategrey;
+    font-size: 300%;
+}
+
+ul 
+{
+    display: inline-block;
+    list-style-position: inside;
+    text-align: left;
+}
